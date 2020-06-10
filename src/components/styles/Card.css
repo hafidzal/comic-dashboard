@@ -1,0 +1,32 @@
+.card-styles{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    height: 25em;
+    width: 30em;
+    border-radius: 20px;
+}
+
+.icon-styles{
+    background-color: white;
+}
+
+.form-styles{
+    padding-top: 1em;
+}
+
+.input-prepend-styles{
+    background-color: white !important;
+}
+
+.input-styles{
+    border-left: 0px !important;
+}
+
+.button-styles{
+    width: 100%;
+    background-color: #e66767 !important;
+    border: 0px !important;
+}
