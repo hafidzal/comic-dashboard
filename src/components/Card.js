@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { IconContext } from 'react-icons';
 import { FaLock, FaUserCircle, FaEnvelope } from 'react-icons/fa';
-import './styles/Card.css';
+// import './styles/Card.css';
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import InputGroup from 'react-bootstrap/InputGroup';
